@@ -62,8 +62,9 @@ If you see **Google Cloud Platform Trial Billing Account**, everything is set up
 
 <img src="../images/9.png" style="width:100%;">
 
----
+If you are unable to access your Google Cloud account due to MFA enforcement, follow [this guide ](./define-mfa.md) to regain access.
 
+---
 
 
 
